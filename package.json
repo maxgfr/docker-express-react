@@ -1,0 +1,23 @@
+{
+  "name": "docker-express-react",
+  "version": "1.0.0",
+  "description": "Dockerize in production a react application using express as server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxgfr/docker-express-react.git"
+  },
+  "author": "maxgfr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxgfr/docker-express-react/issues"
+  },
+  "homepage": "https://github.com/maxgfr/docker-express-react#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
